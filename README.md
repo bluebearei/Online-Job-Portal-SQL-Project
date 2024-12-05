@@ -1,6 +1,6 @@
 # Online Job Portal - SQL Project
 
-This project is a PL/SQL-based database management system for an **Online Job Portal**, developed as part of the Spring 2024 Group Project for school. It demonstrates core database design principles, procedural SQL (PL/SQL), and effective management of data related to job postings, job applications, and user accounts.
+This project is a PL/SQL-based database management system for an **Online Job Portal**, developed as part of the Spring 2024 Project for school. It demonstrates core database design principles, procedural SQL (PL/SQL), and effective management of data related to job postings, job applications, and user accounts.
 
 ---
 
