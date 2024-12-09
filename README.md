@@ -59,12 +59,6 @@ The database includes the following key entities:
 
 ---
 
-## 📊 **ER Diagram**
-![ER Diagram](diagrams/er_diagram.png)  
-*(Upload your ER diagram to the `diagrams/` folder and link it here.)*
-
----
-
 ## 🚀 **How to Run**
 1. **Clone the Repository**:
    ```bash
